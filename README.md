@@ -29,3 +29,7 @@ HTML, CSS i JavaScript vanilla. Sense backend, dependències ni API externa.
 ## Publicació a GitHub Pages
 
 Al repositori, ves a **Settings → Pages** i selecciona **Deploy from a branch**, branca `main` i carpeta `/ (root)`.
+
+## Plantilles addicionals
+
+S'ha afegit un catàleg de plantilles externes HTML/CSS classificades per estil i ús. Consulta [`templates/open-source/README.md`](templates/open-source/README.md) per veure les plantilles, fonts i llicències. Són fitxers de referència independents i encara no formen part de les opcions de l'editor visual.
